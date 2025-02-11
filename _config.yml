@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jinxiang Xie"
-description              : "Majoring in Information and Computing Science."
-repository               : "jxtse/jxtse.github.io"
+title                    : "YiHao Hu"
+description              : "Majoring in Computing Science."
+repository               : "huyihao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
+  name             : "Yihao Hu"
   avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Beijing Jiaotong University"
-  location         : "Beijing, China"
+  bio              : "Hainan University"
+  location         : "Haikou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
